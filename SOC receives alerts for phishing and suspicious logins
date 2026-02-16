@@ -1,0 +1,7 @@
+security-incident-response-playbooks/
+├── README.md
+├── runbooks/
+│   ├── phishing-response.md
+│   ├── suspicious-login.md
+│   └── endpoint-alert.md
+├── screenshots/
