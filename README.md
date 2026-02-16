@@ -1,2 +1,4 @@
-# security-incident-response-playbooks
-SOC receives alerts for phishing and suspicious logins
+What this prove: 
+-Incident response thinking
+-Communication & process
+-SOC readiness
