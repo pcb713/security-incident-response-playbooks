@@ -1,9 +1,1 @@
-## 
-What this prove: 
-
--Incident response thinking
-
--Communication & process
-
--SOC readiness
-
+SOC receives alerts for phishing and suspicious logins
